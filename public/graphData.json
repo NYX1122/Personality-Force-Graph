@@ -1,0 +1,2946 @@
+{
+  "nodes": [
+    {
+      "id": "ANX",
+      "color": "#ff4538",
+      "radius": 25
+    },
+    {
+      "id": "ANG",
+      "color": "#ff6d38",
+      "radius": 25
+    },
+    {
+      "id": "DEP",
+      "color": "#ff9538",
+      "radius": 25
+    },
+    {
+      "id": "SFC",
+      "color": "#ffbc38",
+      "radius": 25
+    },
+    {
+      "id": "IMM",
+      "color": "#ffe438",
+      "radius": 25
+    },
+    {
+      "id": "VUL",
+      "color": "#f2ff38",
+      "radius": 25
+    },
+    {
+      "id": "FRI",
+      "color": "#caff38",
+      "radius": 25
+    },
+    {
+      "id": "GRE",
+      "color": "#a2ff38",
+      "radius": 25
+    },
+    {
+      "id": "ASR",
+      "color": "#7bff38",
+      "radius": 25
+    },
+    {
+      "id": "ACT",
+      "color": "#53ff38",
+      "radius": 25
+    },
+    {
+      "id": "EXC",
+      "color": "#38ff45",
+      "radius": 25
+    },
+    {
+      "id": "CHR",
+      "color": "#38ff6d",
+      "radius": 25
+    },
+    {
+      "id": "IMG",
+      "color": "#38ff95",
+      "radius": 25
+    },
+    {
+      "id": "ART",
+      "color": "#38ffbc",
+      "radius": 25
+    },
+    {
+      "id": "EMO",
+      "color": "#38ffe4",
+      "radius": 25
+    },
+    {
+      "id": "ADV",
+      "color": "#38f2ff",
+      "radius": 25
+    },
+    {
+      "id": "INT",
+      "color": "#38caff",
+      "radius": 25
+    },
+    {
+      "id": "LIB",
+      "color": "#38a2ff",
+      "radius": 25
+    },
+    {
+      "id": "TRU",
+      "color": "#387bff",
+      "radius": 25
+    },
+    {
+      "id": "MOR",
+      "color": "#3853ff",
+      "radius": 25
+    },
+    {
+      "id": "ALT",
+      "color": "#4538ff",
+      "radius": 25
+    },
+    {
+      "id": "COP",
+      "color": "#6d38ff",
+      "radius": 25
+    },
+    {
+      "id": "MOD",
+      "color": "#9538ff",
+      "radius": 25
+    },
+    {
+      "id": "SYM",
+      "color": "#bc38ff",
+      "radius": 25
+    },
+    {
+      "id": "SEF",
+      "color": "#e438ff",
+      "radius": 25
+    },
+    {
+      "id": "ORD",
+      "color": "#ff38f2",
+      "radius": 25
+    },
+    {
+      "id": "DUT",
+      "color": "#ff38ca",
+      "radius": 25
+    },
+    {
+      "id": "ACH",
+      "color": "#ff38a2",
+      "radius": 25
+    },
+    {
+      "id": "SED",
+      "color": "#ff387b",
+      "radius": 25
+    },
+    {
+      "id": "CAU",
+      "color": "#ff3853",
+      "radius": 25
+    },
+    {
+      "id": "AM",
+      "color": "#ff518e",
+      "radius": 25
+    },
+    {
+      "id": "BA",
+      "color": "#d071ff",
+      "radius": 25
+    },
+    {
+      "id": "BF",
+      "color": "#00d5f2",
+      "radius": 25
+    },
+    {
+      "id": "CA",
+      "color": "#ff507b",
+      "radius": 25
+    },
+    {
+      "id": "CC",
+      "color": "#6297ff",
+      "radius": 25
+    },
+    {
+      "id": "GS",
+      "color": "#a0d045",
+      "radius": 25
+    },
+    {
+      "id": "IS",
+      "color": "#00cbf6",
+      "radius": 25
+    },
+    {
+      "id": "JB",
+      "color": "#e55ff6",
+      "radius": 25
+    },
+    {
+      "id": "JM",
+      "color": "#f852eb",
+      "radius": 25
+    },
+    {
+      "id": "JA",
+      "color": "#ea63ff",
+      "radius": 25
+    },
+    {
+      "id": "JS",
+      "color": "#8789ff",
+      "radius": 25
+    },
+    {
+      "id": "JW",
+      "color": "#00b6ff",
+      "radius": 25
+    },
+    {
+      "id": "LA",
+      "color": "#00cf8c",
+      "radius": 25
+    },
+    {
+      "id": "MF",
+      "color": "#ff8630",
+      "radius": 25
+    },
+    {
+      "id": "MC",
+      "color": "#a890ff",
+      "radius": 25
+    },
+    {
+      "id": "SA",
+      "color": "#ec9b00",
+      "radius": 25
+    },
+    {
+      "id": "WA",
+      "color": "#a490ff",
+      "radius": 25
+    },
+    {
+      "id": "WM",
+      "color": "#ff329d",
+      "radius": 25
+    }
+  ],
+  "links": [
+    {
+      "source": "AM",
+      "target": "ANX",
+      "weight": 8
+    },
+    {
+      "source": "AM",
+      "target": "ANG",
+      "weight": 5
+    },
+    {
+      "source": "AM",
+      "target": "DEP",
+      "weight": 6
+    },
+    {
+      "source": "AM",
+      "target": "SFC",
+      "weight": 8
+    },
+    {
+      "source": "AM",
+      "target": "IMM",
+      "weight": 6
+    },
+    {
+      "source": "AM",
+      "target": "VUL",
+      "weight": 7
+    },
+    {
+      "source": "AM",
+      "target": "FRI",
+      "weight": 4
+    },
+    {
+      "source": "AM",
+      "target": "GRE",
+      "weight": 1
+    },
+    {
+      "source": "AM",
+      "target": "ASR",
+      "weight": 6
+    },
+    {
+      "source": "AM",
+      "target": "ACT",
+      "weight": 6
+    },
+    {
+      "source": "AM",
+      "target": "EXC",
+      "weight": 5
+    },
+    {
+      "source": "AM",
+      "target": "CHR",
+      "weight": 5
+    },
+    {
+      "source": "AM",
+      "target": "IMG",
+      "weight": 6
+    },
+    {
+      "source": "AM",
+      "target": "ART",
+      "weight": 7
+    },
+    {
+      "source": "AM",
+      "target": "EMO",
+      "weight": 7
+    },
+    {
+      "source": "AM",
+      "target": "ADV",
+      "weight": 6
+    },
+    {
+      "source": "AM",
+      "target": "INT",
+      "weight": 6
+    },
+    {
+      "source": "AM",
+      "target": "LIB",
+      "weight": 5
+    },
+    {
+      "source": "AM",
+      "target": "TRU",
+      "weight": 3
+    },
+    {
+      "source": "AM",
+      "target": "MOR",
+      "weight": 7
+    },
+    {
+      "source": "AM",
+      "target": "ALT",
+      "weight": 9
+    },
+    {
+      "source": "AM",
+      "target": "COP",
+      "weight": 6
+    },
+    {
+      "source": "AM",
+      "target": "MOD",
+      "weight": 5
+    },
+    {
+      "source": "AM",
+      "target": "SYM",
+      "weight": 8
+    },
+    {
+      "source": "AM",
+      "target": "SEF",
+      "weight": 6
+    },
+    {
+      "source": "AM",
+      "target": "ORD",
+      "weight": 5
+    },
+    {
+      "source": "AM",
+      "target": "DUT",
+      "weight": 8
+    },
+    {
+      "source": "AM",
+      "target": "ACH",
+      "weight": 7
+    },
+    {
+      "source": "AM",
+      "target": "SED",
+      "weight": 4
+    },
+    {
+      "source": "AM",
+      "target": "CAU",
+      "weight": 3
+    },
+    {
+      "source": "BA",
+      "target": "ANX",
+      "weight": 3
+    },
+    {
+      "source": "BA",
+      "target": "ANG",
+      "weight": 4
+    },
+    {
+      "source": "BA",
+      "target": "DEP",
+      "weight": 3
+    },
+    {
+      "source": "BA",
+      "target": "SFC",
+      "weight": 6
+    },
+    {
+      "source": "BA",
+      "target": "IMM",
+      "weight": 5
+    },
+    {
+      "source": "BA",
+      "target": "VUL",
+      "weight": 1
+    },
+    {
+      "source": "BA",
+      "target": "FRI",
+      "weight": 5
+    },
+    {
+      "source": "BA",
+      "target": "GRE",
+      "weight": 2
+    },
+    {
+      "source": "BA",
+      "target": "ASR",
+      "weight": 8
+    },
+    {
+      "source": "BA",
+      "target": "ACT",
+      "weight": 6
+    },
+    {
+      "source": "BA",
+      "target": "EXC",
+      "weight": 5
+    },
+    {
+      "source": "BA",
+      "target": "CHR",
+      "weight": 7
+    },
+    {
+      "source": "BA",
+      "target": "IMG",
+      "weight": 5
+    },
+    {
+      "source": "BA",
+      "target": "ART",
+      "weight": 6
+    },
+    {
+      "source": "BA",
+      "target": "EMO",
+      "weight": 6
+    },
+    {
+      "source": "BA",
+      "target": "ADV",
+      "weight": 3
+    },
+    {
+      "source": "BA",
+      "target": "INT",
+      "weight": 8
+    },
+    {
+      "source": "BA",
+      "target": "LIB",
+      "weight": 2
+    },
+    {
+      "source": "BA",
+      "target": "TRU",
+      "weight": 7
+    },
+    {
+      "source": "BA",
+      "target": "MOR",
+      "weight": 8
+    },
+    {
+      "source": "BA",
+      "target": "ALT",
+      "weight": 8
+    },
+    {
+      "source": "BA",
+      "target": "COP",
+      "weight": 9
+    },
+    {
+      "source": "BA",
+      "target": "MOD",
+      "weight": 6
+    },
+    {
+      "source": "BA",
+      "target": "SYM",
+      "weight": 8
+    },
+    {
+      "source": "BA",
+      "target": "SEF",
+      "weight": 8
+    },
+    {
+      "source": "BA",
+      "target": "ORD",
+      "weight": 9
+    },
+    {
+      "source": "BA",
+      "target": "DUT",
+      "weight": 9
+    },
+    {
+      "source": "BA",
+      "target": "ACH",
+      "weight": 9
+    },
+    {
+      "source": "BA",
+      "target": "SED",
+      "weight": 7
+    },
+    {
+      "source": "BA",
+      "target": "CAU",
+      "weight": 5
+    },
+    {
+      "source": "BF",
+      "target": "ANX",
+      "weight": 6
+    },
+    {
+      "source": "BF",
+      "target": "ANG",
+      "weight": 3
+    },
+    {
+      "source": "BF",
+      "target": "DEP",
+      "weight": 4
+    },
+    {
+      "source": "BF",
+      "target": "SFC",
+      "weight": 3
+    },
+    {
+      "source": "BF",
+      "target": "IMM",
+      "weight": 7
+    },
+    {
+      "source": "BF",
+      "target": "VUL",
+      "weight": 6
+    },
+    {
+      "source": "BF",
+      "target": "FRI",
+      "weight": 7
+    },
+    {
+      "source": "BF",
+      "target": "GRE",
+      "weight": 7
+    },
+    {
+      "source": "BF",
+      "target": "ASR",
+      "weight": 6
+    },
+    {
+      "source": "BF",
+      "target": "ACT",
+      "weight": 1
+    },
+    {
+      "source": "BF",
+      "target": "EXC",
+      "weight": 8
+    },
+    {
+      "source": "BF",
+      "target": "CHR",
+      "weight": 7
+    },
+    {
+      "source": "BF",
+      "target": "IMG",
+      "weight": 8
+    },
+    {
+      "source": "BF",
+      "target": "ART",
+      "weight": 8
+    },
+    {
+      "source": "BF",
+      "target": "EMO",
+      "weight": 8
+    },
+    {
+      "source": "BF",
+      "target": "ADV",
+      "weight": 7
+    },
+    {
+      "source": "BF",
+      "target": "INT",
+      "weight": 8
+    },
+    {
+      "source": "BF",
+      "target": "LIB",
+      "weight": 9
+    },
+    {
+      "source": "BF",
+      "target": "TRU",
+      "weight": 2
+    },
+    {
+      "source": "BF",
+      "target": "MOR",
+      "weight": 8
+    },
+    {
+      "source": "BF",
+      "target": "ALT",
+      "weight": 8
+    },
+    {
+      "source": "BF",
+      "target": "COP",
+      "weight": 7
+    },
+    {
+      "source": "BF",
+      "target": "MOD",
+      "weight": 7
+    },
+    {
+      "source": "BF",
+      "target": "SYM",
+      "weight": 8
+    },
+    {
+      "source": "BF",
+      "target": "SEF",
+      "weight": 4
+    },
+    {
+      "source": "BF",
+      "target": "ORD",
+      "weight": 2
+    },
+    {
+      "source": "BF",
+      "target": "DUT",
+      "weight": 4
+    },
+    {
+      "source": "BF",
+      "target": "ACH",
+      "weight": 2
+    },
+    {
+      "source": "BF",
+      "target": "SED",
+      "weight": 3
+    },
+    {
+      "source": "BF",
+      "target": "CAU",
+      "weight": 2
+    },
+    {
+      "source": "CA",
+      "target": "ANX",
+      "weight": 6
+    },
+    {
+      "source": "CA",
+      "target": "ANG",
+      "weight": 6
+    },
+    {
+      "source": "CA",
+      "target": "DEP",
+      "weight": 5
+    },
+    {
+      "source": "CA",
+      "target": "SFC",
+      "weight": 8
+    },
+    {
+      "source": "CA",
+      "target": "IMM",
+      "weight": 4
+    },
+    {
+      "source": "CA",
+      "target": "VUL",
+      "weight": 4
+    },
+    {
+      "source": "CA",
+      "target": "FRI",
+      "weight": 3
+    },
+    {
+      "source": "CA",
+      "target": "GRE",
+      "weight": 2
+    },
+    {
+      "source": "CA",
+      "target": "ASR",
+      "weight": 7
+    },
+    {
+      "source": "CA",
+      "target": "ACT",
+      "weight": 6
+    },
+    {
+      "source": "CA",
+      "target": "EXC",
+      "weight": 6
+    },
+    {
+      "source": "CA",
+      "target": "CHR",
+      "weight": 5
+    },
+    {
+      "source": "CA",
+      "target": "IMG",
+      "weight": 7
+    },
+    {
+      "source": "CA",
+      "target": "ART",
+      "weight": 6
+    },
+    {
+      "source": "CA",
+      "target": "EMO",
+      "weight": 6
+    },
+    {
+      "source": "CA",
+      "target": "ADV",
+      "weight": 3
+    },
+    {
+      "source": "CA",
+      "target": "INT",
+      "weight": 3
+    },
+    {
+      "source": "CA",
+      "target": "LIB",
+      "weight": 1
+    },
+    {
+      "source": "CA",
+      "target": "TRU",
+      "weight": 1
+    },
+    {
+      "source": "CA",
+      "target": "MOR",
+      "weight": 7
+    },
+    {
+      "source": "CA",
+      "target": "ALT",
+      "weight": 6
+    },
+    {
+      "source": "CA",
+      "target": "COP",
+      "weight": 3
+    },
+    {
+      "source": "CA",
+      "target": "MOD",
+      "weight": 4
+    },
+    {
+      "source": "CA",
+      "target": "SYM",
+      "weight": 3
+    },
+    {
+      "source": "CA",
+      "target": "SEF",
+      "weight": 8
+    },
+    {
+      "source": "CA",
+      "target": "ORD",
+      "weight": 9
+    },
+    {
+      "source": "CA",
+      "target": "DUT",
+      "weight": 7
+    },
+    {
+      "source": "CA",
+      "target": "ACH",
+      "weight": 9
+    },
+    {
+      "source": "CA",
+      "target": "SED",
+      "weight": 8
+    },
+    {
+      "source": "CA",
+      "target": "CAU",
+      "weight": 6
+    },
+    {
+      "source": "CC",
+      "target": "ANX",
+      "weight": 3
+    },
+    {
+      "source": "CC",
+      "target": "ANG",
+      "weight": 5
+    },
+    {
+      "source": "CC",
+      "target": "DEP",
+      "weight": 4
+    },
+    {
+      "source": "CC",
+      "target": "SFC",
+      "weight": 7
+    },
+    {
+      "source": "CC",
+      "target": "IMM",
+      "weight": 7
+    },
+    {
+      "source": "CC",
+      "target": "VUL",
+      "weight": 1
+    },
+    {
+      "source": "CC",
+      "target": "FRI",
+      "weight": 4
+    },
+    {
+      "source": "CC",
+      "target": "GRE",
+      "weight": 2
+    },
+    {
+      "source": "CC",
+      "target": "ASR",
+      "weight": 7
+    },
+    {
+      "source": "CC",
+      "target": "ACT",
+      "weight": 4
+    },
+    {
+      "source": "CC",
+      "target": "EXC",
+      "weight": 6
+    },
+    {
+      "source": "CC",
+      "target": "CHR",
+      "weight": 7
+    },
+    {
+      "source": "CC",
+      "target": "IMG",
+      "weight": 8
+    },
+    {
+      "source": "CC",
+      "target": "ART",
+      "weight": 9
+    },
+    {
+      "source": "CC",
+      "target": "EMO",
+      "weight": 7
+    },
+    {
+      "source": "CC",
+      "target": "ADV",
+      "weight": 4
+    },
+    {
+      "source": "CC",
+      "target": "INT",
+      "weight": 8
+    },
+    {
+      "source": "CC",
+      "target": "LIB",
+      "weight": 7
+    },
+    {
+      "source": "CC",
+      "target": "TRU",
+      "weight": 5
+    },
+    {
+      "source": "CC",
+      "target": "MOR",
+      "weight": 8
+    },
+    {
+      "source": "CC",
+      "target": "ALT",
+      "weight": 8
+    },
+    {
+      "source": "CC",
+      "target": "COP",
+      "weight": 7
+    },
+    {
+      "source": "CC",
+      "target": "MOD",
+      "weight": 7
+    },
+    {
+      "source": "CC",
+      "target": "SYM",
+      "weight": 7
+    },
+    {
+      "source": "CC",
+      "target": "SEF",
+      "weight": 8
+    },
+    {
+      "source": "CC",
+      "target": "ORD",
+      "weight": 9
+    },
+    {
+      "source": "CC",
+      "target": "DUT",
+      "weight": 9
+    },
+    {
+      "source": "CC",
+      "target": "ACH",
+      "weight": 8
+    },
+    {
+      "source": "CC",
+      "target": "SED",
+      "weight": 7
+    },
+    {
+      "source": "CC",
+      "target": "CAU",
+      "weight": 3
+    },
+    {
+      "source": "GS",
+      "target": "ANX",
+      "weight": 8
+    },
+    {
+      "source": "GS",
+      "target": "ANG",
+      "weight": 8
+    },
+    {
+      "source": "GS",
+      "target": "DEP",
+      "weight": 8
+    },
+    {
+      "source": "GS",
+      "target": "SFC",
+      "weight": 5
+    },
+    {
+      "source": "GS",
+      "target": "IMM",
+      "weight": 9
+    },
+    {
+      "source": "GS",
+      "target": "VUL",
+      "weight": 8
+    },
+    {
+      "source": "GS",
+      "target": "FRI",
+      "weight": 4
+    },
+    {
+      "source": "GS",
+      "target": "GRE",
+      "weight": 4
+    },
+    {
+      "source": "GS",
+      "target": "ASR",
+      "weight": 8
+    },
+    {
+      "source": "GS",
+      "target": "ACT",
+      "weight": 6
+    },
+    {
+      "source": "GS",
+      "target": "EXC",
+      "weight": 5
+    },
+    {
+      "source": "GS",
+      "target": "CHR",
+      "weight": 6
+    },
+    {
+      "source": "GS",
+      "target": "IMG",
+      "weight": 8
+    },
+    {
+      "source": "GS",
+      "target": "ART",
+      "weight": 6
+    },
+    {
+      "source": "GS",
+      "target": "EMO",
+      "weight": 8
+    },
+    {
+      "source": "GS",
+      "target": "ADV",
+      "weight": 6
+    },
+    {
+      "source": "GS",
+      "target": "INT",
+      "weight": 9
+    },
+    {
+      "source": "GS",
+      "target": "LIB",
+      "weight": 6
+    },
+    {
+      "source": "GS",
+      "target": "TRU",
+      "weight": 1
+    },
+    {
+      "source": "GS",
+      "target": "MOR",
+      "weight": 5
+    },
+    {
+      "source": "GS",
+      "target": "ALT",
+      "weight": 5
+    },
+    {
+      "source": "GS",
+      "target": "COP",
+      "weight": 5
+    },
+    {
+      "source": "GS",
+      "target": "MOD",
+      "weight": 7
+    },
+    {
+      "source": "GS",
+      "target": "SYM",
+      "weight": 8
+    },
+    {
+      "source": "GS",
+      "target": "SEF",
+      "weight": 6
+    },
+    {
+      "source": "GS",
+      "target": "ORD",
+      "weight": 5
+    },
+    {
+      "source": "GS",
+      "target": "DUT",
+      "weight": 6
+    },
+    {
+      "source": "GS",
+      "target": "ACH",
+      "weight": 7
+    },
+    {
+      "source": "GS",
+      "target": "SED",
+      "weight": 4
+    },
+    {
+      "source": "GS",
+      "target": "CAU",
+      "weight": 3
+    },
+    {
+      "source": "IS",
+      "target": "ANX",
+      "weight": 7
+    },
+    {
+      "source": "IS",
+      "target": "ANG",
+      "weight": 1
+    },
+    {
+      "source": "IS",
+      "target": "DEP",
+      "weight": 3
+    },
+    {
+      "source": "IS",
+      "target": "SFC",
+      "weight": 2
+    },
+    {
+      "source": "IS",
+      "target": "IMM",
+      "weight": 7
+    },
+    {
+      "source": "IS",
+      "target": "VUL",
+      "weight": 3
+    },
+    {
+      "source": "IS",
+      "target": "FRI",
+      "weight": 7
+    },
+    {
+      "source": "IS",
+      "target": "GRE",
+      "weight": 7
+    },
+    {
+      "source": "IS",
+      "target": "ASR",
+      "weight": 2
+    },
+    {
+      "source": "IS",
+      "target": "ACT",
+      "weight": 3
+    },
+    {
+      "source": "IS",
+      "target": "EXC",
+      "weight": 8
+    },
+    {
+      "source": "IS",
+      "target": "CHR",
+      "weight": 8
+    },
+    {
+      "source": "IS",
+      "target": "IMG",
+      "weight": 8
+    },
+    {
+      "source": "IS",
+      "target": "ART",
+      "weight": 4
+    },
+    {
+      "source": "IS",
+      "target": "EMO",
+      "weight": 9
+    },
+    {
+      "source": "IS",
+      "target": "ADV",
+      "weight": 5
+    },
+    {
+      "source": "IS",
+      "target": "INT",
+      "weight": 2
+    },
+    {
+      "source": "IS",
+      "target": "LIB",
+      "weight": 7
+    },
+    {
+      "source": "IS",
+      "target": "TRU",
+      "weight": 8
+    },
+    {
+      "source": "IS",
+      "target": "MOR",
+      "weight": 8
+    },
+    {
+      "source": "IS",
+      "target": "ALT",
+      "weight": 9
+    },
+    {
+      "source": "IS",
+      "target": "COP",
+      "weight": 8
+    },
+    {
+      "source": "IS",
+      "target": "MOD",
+      "weight": 8
+    },
+    {
+      "source": "IS",
+      "target": "SYM",
+      "weight": 8
+    },
+    {
+      "source": "IS",
+      "target": "SEF",
+      "weight": 4
+    },
+    {
+      "source": "IS",
+      "target": "ORD",
+      "weight": 2
+    },
+    {
+      "source": "IS",
+      "target": "DUT",
+      "weight": 4
+    },
+    {
+      "source": "IS",
+      "target": "ACH",
+      "weight": 4
+    },
+    {
+      "source": "IS",
+      "target": "SED",
+      "weight": 1
+    },
+    {
+      "source": "IS",
+      "target": "CAU",
+      "weight": 1
+    },
+    {
+      "source": "JB",
+      "target": "ANX",
+      "weight": 6
+    },
+    {
+      "source": "JB",
+      "target": "ANG",
+      "weight": 1
+    },
+    {
+      "source": "JB",
+      "target": "DEP",
+      "weight": 6
+    },
+    {
+      "source": "JB",
+      "target": "SFC",
+      "weight": 8
+    },
+    {
+      "source": "JB",
+      "target": "IMM",
+      "weight": 8
+    },
+    {
+      "source": "JB",
+      "target": "VUL",
+      "weight": 5
+    },
+    {
+      "source": "JB",
+      "target": "FRI",
+      "weight": 7
+    },
+    {
+      "source": "JB",
+      "target": "GRE",
+      "weight": 3
+    },
+    {
+      "source": "JB",
+      "target": "ASR",
+      "weight": 3
+    },
+    {
+      "source": "JB",
+      "target": "ACT",
+      "weight": 3
+    },
+    {
+      "source": "JB",
+      "target": "EXC",
+      "weight": 5
+    },
+    {
+      "source": "JB",
+      "target": "CHR",
+      "weight": 7
+    },
+    {
+      "source": "JB",
+      "target": "IMG",
+      "weight": 7
+    },
+    {
+      "source": "JB",
+      "target": "ART",
+      "weight": 8
+    },
+    {
+      "source": "JB",
+      "target": "EMO",
+      "weight": 7
+    },
+    {
+      "source": "JB",
+      "target": "ADV",
+      "weight": 5
+    },
+    {
+      "source": "JB",
+      "target": "INT",
+      "weight": 5
+    },
+    {
+      "source": "JB",
+      "target": "LIB",
+      "weight": 7
+    },
+    {
+      "source": "JB",
+      "target": "TRU",
+      "weight": 7
+    },
+    {
+      "source": "JB",
+      "target": "MOR",
+      "weight": 7
+    },
+    {
+      "source": "JB",
+      "target": "ALT",
+      "weight": 9
+    },
+    {
+      "source": "JB",
+      "target": "COP",
+      "weight": 8
+    },
+    {
+      "source": "JB",
+      "target": "MOD",
+      "weight": 8
+    },
+    {
+      "source": "JB",
+      "target": "SYM",
+      "weight": 9
+    },
+    {
+      "source": "JB",
+      "target": "SEF",
+      "weight": 7
+    },
+    {
+      "source": "JB",
+      "target": "ORD",
+      "weight": 9
+    },
+    {
+      "source": "JB",
+      "target": "DUT",
+      "weight": 9
+    },
+    {
+      "source": "JB",
+      "target": "ACH",
+      "weight": 8
+    },
+    {
+      "source": "JB",
+      "target": "SED",
+      "weight": 5
+    },
+    {
+      "source": "JB",
+      "target": "CAU",
+      "weight": 7
+    },
+    {
+      "source": "JM",
+      "target": "ANX",
+      "weight": 2
+    },
+    {
+      "source": "JM",
+      "target": "ANG",
+      "weight": 4
+    },
+    {
+      "source": "JM",
+      "target": "DEP",
+      "weight": 3
+    },
+    {
+      "source": "JM",
+      "target": "SFC",
+      "weight": 7
+    },
+    {
+      "source": "JM",
+      "target": "IMM",
+      "weight": 4
+    },
+    {
+      "source": "JM",
+      "target": "VUL",
+      "weight": 2
+    },
+    {
+      "source": "JM",
+      "target": "FRI",
+      "weight": 2
+    },
+    {
+      "source": "JM",
+      "target": "GRE",
+      "weight": 1
+    },
+    {
+      "source": "JM",
+      "target": "ASR",
+      "weight": 4
+    },
+    {
+      "source": "JM",
+      "target": "ACT",
+      "weight": 6
+    },
+    {
+      "source": "JM",
+      "target": "EXC",
+      "weight": 7
+    },
+    {
+      "source": "JM",
+      "target": "CHR",
+      "weight": 8
+    },
+    {
+      "source": "JM",
+      "target": "IMG",
+      "weight": 6
+    },
+    {
+      "source": "JM",
+      "target": "ART",
+      "weight": 4
+    },
+    {
+      "source": "JM",
+      "target": "EMO",
+      "weight": 4
+    },
+    {
+      "source": "JM",
+      "target": "ADV",
+      "weight": 6
+    },
+    {
+      "source": "JM",
+      "target": "INT",
+      "weight": 5
+    },
+    {
+      "source": "JM",
+      "target": "LIB",
+      "weight": 2
+    },
+    {
+      "source": "JM",
+      "target": "TRU",
+      "weight": 4
+    },
+    {
+      "source": "JM",
+      "target": "MOR",
+      "weight": 8
+    },
+    {
+      "source": "JM",
+      "target": "ALT",
+      "weight": 7
+    },
+    {
+      "source": "JM",
+      "target": "COP",
+      "weight": 8
+    },
+    {
+      "source": "JM",
+      "target": "MOD",
+      "weight": 5
+    },
+    {
+      "source": "JM",
+      "target": "SYM",
+      "weight": 3
+    },
+    {
+      "source": "JM",
+      "target": "SEF",
+      "weight": 8
+    },
+    {
+      "source": "JM",
+      "target": "ORD",
+      "weight": 9
+    },
+    {
+      "source": "JM",
+      "target": "DUT",
+      "weight": 8
+    },
+    {
+      "source": "JM",
+      "target": "ACH",
+      "weight": 9
+    },
+    {
+      "source": "JM",
+      "target": "SED",
+      "weight": 8
+    },
+    {
+      "source": "JM",
+      "target": "CAU",
+      "weight": 7
+    },
+    {
+      "source": "JA",
+      "target": "ANX",
+      "weight": 6
+    },
+    {
+      "source": "JA",
+      "target": "ANG",
+      "weight": 1
+    },
+    {
+      "source": "JA",
+      "target": "DEP",
+      "weight": 2
+    },
+    {
+      "source": "JA",
+      "target": "SFC",
+      "weight": 3
+    },
+    {
+      "source": "JA",
+      "target": "IMM",
+      "weight": 5
+    },
+    {
+      "source": "JA",
+      "target": "VUL",
+      "weight": 2
+    },
+    {
+      "source": "JA",
+      "target": "FRI",
+      "weight": 8
+    },
+    {
+      "source": "JA",
+      "target": "GRE",
+      "weight": 6
+    },
+    {
+      "source": "JA",
+      "target": "ASR",
+      "weight": 5
+    },
+    {
+      "source": "JA",
+      "target": "ACT",
+      "weight": 6
+    },
+    {
+      "source": "JA",
+      "target": "EXC",
+      "weight": 2
+    },
+    {
+      "source": "JA",
+      "target": "CHR",
+      "weight": 8
+    },
+    {
+      "source": "JA",
+      "target": "IMG",
+      "weight": 4
+    },
+    {
+      "source": "JA",
+      "target": "ART",
+      "weight": 6
+    },
+    {
+      "source": "JA",
+      "target": "EMO",
+      "weight": 7
+    },
+    {
+      "source": "JA",
+      "target": "ADV",
+      "weight": 2
+    },
+    {
+      "source": "JA",
+      "target": "INT",
+      "weight": 5
+    },
+    {
+      "source": "JA",
+      "target": "LIB",
+      "weight": 2
+    },
+    {
+      "source": "JA",
+      "target": "TRU",
+      "weight": 4
+    },
+    {
+      "source": "JA",
+      "target": "MOR",
+      "weight": 9
+    },
+    {
+      "source": "JA",
+      "target": "ALT",
+      "weight": 9
+    },
+    {
+      "source": "JA",
+      "target": "COP",
+      "weight": 9
+    },
+    {
+      "source": "JA",
+      "target": "MOD",
+      "weight": 8
+    },
+    {
+      "source": "JA",
+      "target": "SYM",
+      "weight": 6
+    },
+    {
+      "source": "JA",
+      "target": "SEF",
+      "weight": 6
+    },
+    {
+      "source": "JA",
+      "target": "ORD",
+      "weight": 3
+    },
+    {
+      "source": "JA",
+      "target": "DUT",
+      "weight": 8
+    },
+    {
+      "source": "JA",
+      "target": "ACH",
+      "weight": 8
+    },
+    {
+      "source": "JA",
+      "target": "SED",
+      "weight": 5
+    },
+    {
+      "source": "JA",
+      "target": "CAU",
+      "weight": 4
+    },
+    {
+      "source": "JS",
+      "target": "ANX",
+      "weight": 7
+    },
+    {
+      "source": "JS",
+      "target": "ANG",
+      "weight": 5
+    },
+    {
+      "source": "JS",
+      "target": "DEP",
+      "weight": 5
+    },
+    {
+      "source": "JS",
+      "target": "SFC",
+      "weight": 8
+    },
+    {
+      "source": "JS",
+      "target": "IMM",
+      "weight": 4
+    },
+    {
+      "source": "JS",
+      "target": "VUL",
+      "weight": 5
+    },
+    {
+      "source": "JS",
+      "target": "FRI",
+      "weight": 6
+    },
+    {
+      "source": "JS",
+      "target": "GRE",
+      "weight": 1
+    },
+    {
+      "source": "JS",
+      "target": "ASR",
+      "weight": 6
+    },
+    {
+      "source": "JS",
+      "target": "ACT",
+      "weight": 3
+    },
+    {
+      "source": "JS",
+      "target": "EXC",
+      "weight": 3
+    },
+    {
+      "source": "JS",
+      "target": "CHR",
+      "weight": 6
+    },
+    {
+      "source": "JS",
+      "target": "IMG",
+      "weight": 7
+    },
+    {
+      "source": "JS",
+      "target": "ART",
+      "weight": 8
+    },
+    {
+      "source": "JS",
+      "target": "EMO",
+      "weight": 7
+    },
+    {
+      "source": "JS",
+      "target": "ADV",
+      "weight": 7
+    },
+    {
+      "source": "JS",
+      "target": "INT",
+      "weight": 9
+    },
+    {
+      "source": "JS",
+      "target": "LIB",
+      "weight": 9
+    },
+    {
+      "source": "JS",
+      "target": "TRU",
+      "weight": 5
+    },
+    {
+      "source": "JS",
+      "target": "MOR",
+      "weight": 9
+    },
+    {
+      "source": "JS",
+      "target": "ALT",
+      "weight": 9
+    },
+    {
+      "source": "JS",
+      "target": "COP",
+      "weight": 9
+    },
+    {
+      "source": "JS",
+      "target": "MOD",
+      "weight": 7
+    },
+    {
+      "source": "JS",
+      "target": "SYM",
+      "weight": 9
+    },
+    {
+      "source": "JS",
+      "target": "SEF",
+      "weight": 7
+    },
+    {
+      "source": "JS",
+      "target": "ORD",
+      "weight": 5
+    },
+    {
+      "source": "JS",
+      "target": "DUT",
+      "weight": 7
+    },
+    {
+      "source": "JS",
+      "target": "ACH",
+      "weight": 9
+    },
+    {
+      "source": "JS",
+      "target": "SED",
+      "weight": 2
+    },
+    {
+      "source": "JS",
+      "target": "CAU",
+      "weight": 7
+    },
+    {
+      "source": "JW",
+      "target": "ANX",
+      "weight": 7
+    },
+    {
+      "source": "JW",
+      "target": "ANG",
+      "weight": 1
+    },
+    {
+      "source": "JW",
+      "target": "DEP",
+      "weight": 6
+    },
+    {
+      "source": "JW",
+      "target": "SFC",
+      "weight": 4
+    },
+    {
+      "source": "JW",
+      "target": "IMM",
+      "weight": 6
+    },
+    {
+      "source": "JW",
+      "target": "VUL",
+      "weight": 6
+    },
+    {
+      "source": "JW",
+      "target": "FRI",
+      "weight": 6
+    },
+    {
+      "source": "JW",
+      "target": "GRE",
+      "weight": 6
+    },
+    {
+      "source": "JW",
+      "target": "ASR",
+      "weight": 5
+    },
+    {
+      "source": "JW",
+      "target": "ACT",
+      "weight": 3
+    },
+    {
+      "source": "JW",
+      "target": "EXC",
+      "weight": 6
+    },
+    {
+      "source": "JW",
+      "target": "CHR",
+      "weight": 6
+    },
+    {
+      "source": "JW",
+      "target": "IMG",
+      "weight": 8
+    },
+    {
+      "source": "JW",
+      "target": "ART",
+      "weight": 7
+    },
+    {
+      "source": "JW",
+      "target": "EMO",
+      "weight": 8
+    },
+    {
+      "source": "JW",
+      "target": "ADV",
+      "weight": 7
+    },
+    {
+      "source": "JW",
+      "target": "INT",
+      "weight": 8
+    },
+    {
+      "source": "JW",
+      "target": "LIB",
+      "weight": 8
+    },
+    {
+      "source": "JW",
+      "target": "TRU",
+      "weight": 8
+    },
+    {
+      "source": "JW",
+      "target": "MOR",
+      "weight": 7
+    },
+    {
+      "source": "JW",
+      "target": "ALT",
+      "weight": 8
+    },
+    {
+      "source": "JW",
+      "target": "COP",
+      "weight": 8
+    },
+    {
+      "source": "JW",
+      "target": "MOD",
+      "weight": 6
+    },
+    {
+      "source": "JW",
+      "target": "SYM",
+      "weight": 9
+    },
+    {
+      "source": "JW",
+      "target": "SEF",
+      "weight": 5
+    },
+    {
+      "source": "JW",
+      "target": "ORD",
+      "weight": 4
+    },
+    {
+      "source": "JW",
+      "target": "DUT",
+      "weight": 7
+    },
+    {
+      "source": "JW",
+      "target": "ACH",
+      "weight": 6
+    },
+    {
+      "source": "JW",
+      "target": "SED",
+      "weight": 4
+    },
+    {
+      "source": "JW",
+      "target": "CAU",
+      "weight": 4
+    },
+    {
+      "source": "LA",
+      "target": "ANX",
+      "weight": 7
+    },
+    {
+      "source": "LA",
+      "target": "ANG",
+      "weight": 8
+    },
+    {
+      "source": "LA",
+      "target": "DEP",
+      "weight": 5
+    },
+    {
+      "source": "LA",
+      "target": "SFC",
+      "weight": 4
+    },
+    {
+      "source": "LA",
+      "target": "IMM",
+      "weight": 8
+    },
+    {
+      "source": "LA",
+      "target": "VUL",
+      "weight": 6
+    },
+    {
+      "source": "LA",
+      "target": "FRI",
+      "weight": 3
+    },
+    {
+      "source": "LA",
+      "target": "GRE",
+      "weight": 3
+    },
+    {
+      "source": "LA",
+      "target": "ASR",
+      "weight": 5
+    },
+    {
+      "source": "LA",
+      "target": "ACT",
+      "weight": 3
+    },
+    {
+      "source": "LA",
+      "target": "EXC",
+      "weight": 7
+    },
+    {
+      "source": "LA",
+      "target": "CHR",
+      "weight": 2
+    },
+    {
+      "source": "LA",
+      "target": "IMG",
+      "weight": 9
+    },
+    {
+      "source": "LA",
+      "target": "ART",
+      "weight": 9
+    },
+    {
+      "source": "LA",
+      "target": "EMO",
+      "weight": 8
+    },
+    {
+      "source": "LA",
+      "target": "ADV",
+      "weight": 4
+    },
+    {
+      "source": "LA",
+      "target": "INT",
+      "weight": 8
+    },
+    {
+      "source": "LA",
+      "target": "LIB",
+      "weight": 8
+    },
+    {
+      "source": "LA",
+      "target": "TRU",
+      "weight": 6
+    },
+    {
+      "source": "LA",
+      "target": "MOR",
+      "weight": 3
+    },
+    {
+      "source": "LA",
+      "target": "ALT",
+      "weight": 7
+    },
+    {
+      "source": "LA",
+      "target": "COP",
+      "weight": 4
+    },
+    {
+      "source": "LA",
+      "target": "MOD",
+      "weight": 6
+    },
+    {
+      "source": "LA",
+      "target": "SYM",
+      "weight": 9
+    },
+    {
+      "source": "LA",
+      "target": "SEF",
+      "weight": 5
+    },
+    {
+      "source": "LA",
+      "target": "ORD",
+      "weight": 1
+    },
+    {
+      "source": "LA",
+      "target": "DUT",
+      "weight": 3
+    },
+    {
+      "source": "LA",
+      "target": "ACH",
+      "weight": 5
+    },
+    {
+      "source": "LA",
+      "target": "SED",
+      "weight": 2
+    },
+    {
+      "source": "LA",
+      "target": "CAU",
+      "weight": 3
+    },
+    {
+      "source": "MF",
+      "target": "ANX",
+      "weight": 6
+    },
+    {
+      "source": "MF",
+      "target": "ANG",
+      "weight": 6
+    },
+    {
+      "source": "MF",
+      "target": "DEP",
+      "weight": 4
+    },
+    {
+      "source": "MF",
+      "target": "SFC",
+      "weight": 5
+    },
+    {
+      "source": "MF",
+      "target": "IMM",
+      "weight": 7
+    },
+    {
+      "source": "MF",
+      "target": "VUL",
+      "weight": 1
+    },
+    {
+      "source": "MF",
+      "target": "FRI",
+      "weight": 6
+    },
+    {
+      "source": "MF",
+      "target": "GRE",
+      "weight": 6
+    },
+    {
+      "source": "MF",
+      "target": "ASR",
+      "weight": 8
+    },
+    {
+      "source": "MF",
+      "target": "ACT",
+      "weight": 6
+    },
+    {
+      "source": "MF",
+      "target": "EXC",
+      "weight": 5
+    },
+    {
+      "source": "MF",
+      "target": "CHR",
+      "weight": 5
+    },
+    {
+      "source": "MF",
+      "target": "IMG",
+      "weight": 6
+    },
+    {
+      "source": "MF",
+      "target": "ART",
+      "weight": 6
+    },
+    {
+      "source": "MF",
+      "target": "EMO",
+      "weight": 7
+    },
+    {
+      "source": "MF",
+      "target": "ADV",
+      "weight": 4
+    },
+    {
+      "source": "MF",
+      "target": "INT",
+      "weight": 1
+    },
+    {
+      "source": "MF",
+      "target": "LIB",
+      "weight": 6
+    },
+    {
+      "source": "MF",
+      "target": "TRU",
+      "weight": 6
+    },
+    {
+      "source": "MF",
+      "target": "MOR",
+      "weight": 4
+    },
+    {
+      "source": "MF",
+      "target": "ALT",
+      "weight": 5
+    },
+    {
+      "source": "MF",
+      "target": "COP",
+      "weight": 6
+    },
+    {
+      "source": "MF",
+      "target": "MOD",
+      "weight": 4
+    },
+    {
+      "source": "MF",
+      "target": "SYM",
+      "weight": 3
+    },
+    {
+      "source": "MF",
+      "target": "SEF",
+      "weight": 8
+    },
+    {
+      "source": "MF",
+      "target": "ORD",
+      "weight": 5
+    },
+    {
+      "source": "MF",
+      "target": "DUT",
+      "weight": 6
+    },
+    {
+      "source": "MF",
+      "target": "ACH",
+      "weight": 9
+    },
+    {
+      "source": "MF",
+      "target": "SED",
+      "weight": 6
+    },
+    {
+      "source": "MF",
+      "target": "CAU",
+      "weight": 4
+    },
+    {
+      "source": "MC",
+      "target": "ANX",
+      "weight": 4
+    },
+    {
+      "source": "MC",
+      "target": "ANG",
+      "weight": 1
+    },
+    {
+      "source": "MC",
+      "target": "DEP",
+      "weight": 4
+    },
+    {
+      "source": "MC",
+      "target": "SFC",
+      "weight": 3
+    },
+    {
+      "source": "MC",
+      "target": "IMM",
+      "weight": 3
+    },
+    {
+      "source": "MC",
+      "target": "VUL",
+      "weight": 2
+    },
+    {
+      "source": "MC",
+      "target": "FRI",
+      "weight": 6
+    },
+    {
+      "source": "MC",
+      "target": "GRE",
+      "weight": 4
+    },
+    {
+      "source": "MC",
+      "target": "ASR",
+      "weight": 9
+    },
+    {
+      "source": "MC",
+      "target": "ACT",
+      "weight": 7
+    },
+    {
+      "source": "MC",
+      "target": "EXC",
+      "weight": 6
+    },
+    {
+      "source": "MC",
+      "target": "CHR",
+      "weight": 9
+    },
+    {
+      "source": "MC",
+      "target": "IMG",
+      "weight": 6
+    },
+    {
+      "source": "MC",
+      "target": "ART",
+      "weight": 7
+    },
+    {
+      "source": "MC",
+      "target": "EMO",
+      "weight": 8
+    },
+    {
+      "source": "MC",
+      "target": "ADV",
+      "weight": 4
+    },
+    {
+      "source": "MC",
+      "target": "INT",
+      "weight": 3
+    },
+    {
+      "source": "MC",
+      "target": "LIB",
+      "weight": 4
+    },
+    {
+      "source": "MC",
+      "target": "TRU",
+      "weight": 6
+    },
+    {
+      "source": "MC",
+      "target": "MOR",
+      "weight": 8
+    },
+    {
+      "source": "MC",
+      "target": "ALT",
+      "weight": 8
+    },
+    {
+      "source": "MC",
+      "target": "COP",
+      "weight": 5
+    },
+    {
+      "source": "MC",
+      "target": "MOD",
+      "weight": 6
+    },
+    {
+      "source": "MC",
+      "target": "SYM",
+      "weight": 6
+    },
+    {
+      "source": "MC",
+      "target": "SEF",
+      "weight": 9
+    },
+    {
+      "source": "MC",
+      "target": "ORD",
+      "weight": 7
+    },
+    {
+      "source": "MC",
+      "target": "DUT",
+      "weight": 7
+    },
+    {
+      "source": "MC",
+      "target": "ACH",
+      "weight": 9
+    },
+    {
+      "source": "MC",
+      "target": "SED",
+      "weight": 7
+    },
+    {
+      "source": "MC",
+      "target": "CAU",
+      "weight": 4
+    },
+    {
+      "source": "SA",
+      "target": "ANX",
+      "weight": 8
+    },
+    {
+      "source": "SA",
+      "target": "ANG",
+      "weight": 7
+    },
+    {
+      "source": "SA",
+      "target": "DEP",
+      "weight": 6
+    },
+    {
+      "source": "SA",
+      "target": "SFC",
+      "weight": 7
+    },
+    {
+      "source": "SA",
+      "target": "IMM",
+      "weight": 7
+    },
+    {
+      "source": "SA",
+      "target": "VUL",
+      "weight": 7
+    },
+    {
+      "source": "SA",
+      "target": "FRI",
+      "weight": 4
+    },
+    {
+      "source": "SA",
+      "target": "GRE",
+      "weight": 3
+    },
+    {
+      "source": "SA",
+      "target": "ASR",
+      "weight": 4
+    },
+    {
+      "source": "SA",
+      "target": "ACT",
+      "weight": 5
+    },
+    {
+      "source": "SA",
+      "target": "EXC",
+      "weight": 4
+    },
+    {
+      "source": "SA",
+      "target": "CHR",
+      "weight": 6
+    },
+    {
+      "source": "SA",
+      "target": "IMG",
+      "weight": 6
+    },
+    {
+      "source": "SA",
+      "target": "ART",
+      "weight": 9
+    },
+    {
+      "source": "SA",
+      "target": "EMO",
+      "weight": 8
+    },
+    {
+      "source": "SA",
+      "target": "ADV",
+      "weight": 6
+    },
+    {
+      "source": "SA",
+      "target": "INT",
+      "weight": 5
+    },
+    {
+      "source": "SA",
+      "target": "LIB",
+      "weight": 4
+    },
+    {
+      "source": "SA",
+      "target": "TRU",
+      "weight": 1
+    },
+    {
+      "source": "SA",
+      "target": "MOR",
+      "weight": 8
+    },
+    {
+      "source": "SA",
+      "target": "ALT",
+      "weight": 7
+    },
+    {
+      "source": "SA",
+      "target": "COP",
+      "weight": 8
+    },
+    {
+      "source": "SA",
+      "target": "MOD",
+      "weight": 6
+    },
+    {
+      "source": "SA",
+      "target": "SYM",
+      "weight": 6
+    },
+    {
+      "source": "SA",
+      "target": "SEF",
+      "weight": 5
+    },
+    {
+      "source": "SA",
+      "target": "ORD",
+      "weight": 5
+    },
+    {
+      "source": "SA",
+      "target": "DUT",
+      "weight": 6
+    },
+    {
+      "source": "SA",
+      "target": "ACH",
+      "weight": 6
+    },
+    {
+      "source": "SA",
+      "target": "SED",
+      "weight": 2
+    },
+    {
+      "source": "SA",
+      "target": "CAU",
+      "weight": 4
+    },
+    {
+      "source": "WA",
+      "target": "ANX",
+      "weight": 6
+    },
+    {
+      "source": "WA",
+      "target": "ANG",
+      "weight": 4
+    },
+    {
+      "source": "WA",
+      "target": "DEP",
+      "weight": 3
+    },
+    {
+      "source": "WA",
+      "target": "SFC",
+      "weight": 3
+    },
+    {
+      "source": "WA",
+      "target": "IMM",
+      "weight": 4
+    },
+    {
+      "source": "WA",
+      "target": "VUL",
+      "weight": 4
+    },
+    {
+      "source": "WA",
+      "target": "FRI",
+      "weight": 7
+    },
+    {
+      "source": "WA",
+      "target": "GRE",
+      "weight": 6
+    },
+    {
+      "source": "WA",
+      "target": "ASR",
+      "weight": 8
+    },
+    {
+      "source": "WA",
+      "target": "ACT",
+      "weight": 2
+    },
+    {
+      "source": "WA",
+      "target": "EXC",
+      "weight": 7
+    },
+    {
+      "source": "WA",
+      "target": "CHR",
+      "weight": 8
+    },
+    {
+      "source": "WA",
+      "target": "IMG",
+      "weight": 6
+    },
+    {
+      "source": "WA",
+      "target": "ART",
+      "weight": 8
+    },
+    {
+      "source": "WA",
+      "target": "EMO",
+      "weight": 5
+    },
+    {
+      "source": "WA",
+      "target": "ADV",
+      "weight": 5
+    },
+    {
+      "source": "WA",
+      "target": "INT",
+      "weight": 8
+    },
+    {
+      "source": "WA",
+      "target": "LIB",
+      "weight": 1
+    },
+    {
+      "source": "WA",
+      "target": "TRU",
+      "weight": 7
+    },
+    {
+      "source": "WA",
+      "target": "MOR",
+      "weight": 8
+    },
+    {
+      "source": "WA",
+      "target": "ALT",
+      "weight": 5
+    },
+    {
+      "source": "WA",
+      "target": "COP",
+      "weight": 8
+    },
+    {
+      "source": "WA",
+      "target": "MOD",
+      "weight": 5
+    },
+    {
+      "source": "WA",
+      "target": "SYM",
+      "weight": 6
+    },
+    {
+      "source": "WA",
+      "target": "SEF",
+      "weight": 6
+    },
+    {
+      "source": "WA",
+      "target": "ORD",
+      "weight": 4
+    },
+    {
+      "source": "WA",
+      "target": "DUT",
+      "weight": 9
+    },
+    {
+      "source": "WA",
+      "target": "ACH",
+      "weight": 7
+    },
+    {
+      "source": "WA",
+      "target": "SED",
+      "weight": 3
+    },
+    {
+      "source": "WA",
+      "target": "CAU",
+      "weight": 9
+    },
+    {
+      "source": "WM",
+      "target": "ANX",
+      "weight": 7
+    },
+    {
+      "source": "WM",
+      "target": "ANG",
+      "weight": 5
+    },
+    {
+      "source": "WM",
+      "target": "DEP",
+      "weight": 4
+    },
+    {
+      "source": "WM",
+      "target": "SFC",
+      "weight": 5
+    },
+    {
+      "source": "WM",
+      "target": "IMM",
+      "weight": 1
+    },
+    {
+      "source": "WM",
+      "target": "VUL",
+      "weight": 5
+    },
+    {
+      "source": "WM",
+      "target": "FRI",
+      "weight": 3
+    },
+    {
+      "source": "WM",
+      "target": "GRE",
+      "weight": 3
+    },
+    {
+      "source": "WM",
+      "target": "ASR",
+      "weight": 7
+    },
+    {
+      "source": "WM",
+      "target": "ACT",
+      "weight": 7
+    },
+    {
+      "source": "WM",
+      "target": "EXC",
+      "weight": 5
+    },
+    {
+      "source": "WM",
+      "target": "CHR",
+      "weight": 5
+    },
+    {
+      "source": "WM",
+      "target": "IMG",
+      "weight": 3
+    },
+    {
+      "source": "WM",
+      "target": "ART",
+      "weight": 6
+    },
+    {
+      "source": "WM",
+      "target": "EMO",
+      "weight": 6
+    },
+    {
+      "source": "WM",
+      "target": "ADV",
+      "weight": 2
+    },
+    {
+      "source": "WM",
+      "target": "INT",
+      "weight": 3
+    },
+    {
+      "source": "WM",
+      "target": "LIB",
+      "weight": 5
+    },
+    {
+      "source": "WM",
+      "target": "TRU",
+      "weight": 5
+    },
+    {
+      "source": "WM",
+      "target": "MOR",
+      "weight": 8
+    },
+    {
+      "source": "WM",
+      "target": "ALT",
+      "weight": 5
+    },
+    {
+      "source": "WM",
+      "target": "COP",
+      "weight": 6
+    },
+    {
+      "source": "WM",
+      "target": "MOD",
+      "weight": 2
+    },
+    {
+      "source": "WM",
+      "target": "SYM",
+      "weight": 5
+    },
+    {
+      "source": "WM",
+      "target": "SEF",
+      "weight": 8
+    },
+    {
+      "source": "WM",
+      "target": "ORD",
+      "weight": 7
+    },
+    {
+      "source": "WM",
+      "target": "DUT",
+      "weight": 9
+    },
+    {
+      "source": "WM",
+      "target": "ACH",
+      "weight": 8
+    },
+    {
+      "source": "WM",
+      "target": "SED",
+      "weight": 8
+    },
+    {
+      "source": "WM",
+      "target": "CAU",
+      "weight": 9
+    }
+  ]
+}
