@@ -4,7 +4,7 @@ const app = async function () {
   const server = express();
   const PORT = 3000;
 
-  server.use(express.static('public'));
+  server.use(express.static('docs'));
 
   server.get('/', (req, res) => {
     res.send('Hello World!');
