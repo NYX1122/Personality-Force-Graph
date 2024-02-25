@@ -6,13 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Force-Directed Graph</title>
     <style>
-      /* Updated styling */
-    * {
-      transform: translate3d;
-      -webkit-transform: translate3d;
-      transform-style: preserve-3d;
-      -webkit-transform-style: preserve-3d;
-    }
 
     body {
       font-family: Arial, sans-serif;
@@ -24,7 +17,7 @@
       overflow: hidden; /* Prevents scrollbars */
     }
 
-    svg {
+    canvas {
       display: block; /* Ensures the SVG fills the entire space */
       width: 100%;
       height: 100%;
@@ -36,7 +29,7 @@
 
 <body>
   <!-- Container for the force-directed graph -->
-  <svg></svg>
+  <canvas id="graphCanvas"></canvas>
 
   <!-- D3.js CDN -->
   <script src="https://d3js.org/d3.v6.min.js"></script>
