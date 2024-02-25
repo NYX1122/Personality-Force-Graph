@@ -9,10 +9,7 @@ const svg = d3.select('svg'),
   width = window.innerWidth,
   height = window.innerHeight;
 
-svg
-  .attr('viewBox', `0 0 ${width} ${height}`)
-  .style('width', '100%') // Make SVG responsive
-  .style('height', 'auto'); // Maintain aspect ratio
+svg.attr('viewBox', `0 0 ${width} ${height}`);
 
 // Create the definitions for gradients
 const defs = svg.append('defs');
