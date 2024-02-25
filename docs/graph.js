@@ -9,7 +9,10 @@ const svg = d3.select('svg'),
   width = window.innerWidth,
   height = window.innerHeight;
 
-svg.attr('width', width).attr('height', height);
+svg
+  .attr('viewBox', `0 0 ${width} ${height}`)
+  .style('width', '100%') // Make SVG responsive
+  .style('height', 'auto'); // Maintain aspect ratio
 
 // Create the definitions for gradients
 const defs = svg.append('defs');
@@ -45,7 +48,10 @@ const simulation = d3
       .forceLink(links)
       .id((d) => d.id)
       .distance(0)
-      .strength((d) => d.weight / 1000)
+      .strength(
+        (d) =>
+          (d.weight * d.weight * d.weight * d.weight * d.weight) / 100000000
+      )
   )
   .force('charge', d3.forceManyBody().strength(-1000).theta(1))
   .force('center', d3.forceCenter(width / 2, height / 2))
@@ -102,7 +108,7 @@ link = link
   .data(links)
   .enter()
   .append('path')
-  .attr('stroke-width', 3)
+  .attr('stroke-width', 5)
   .attr('stroke', (d, i) => `url(#gradient-${i})`);
 
 const nodeEnter = g

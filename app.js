@@ -19,5 +19,3 @@ const app = async function () {
 };
 
 app();
-
-//ugh
