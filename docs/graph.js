@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       const zoom = d3
         .zoom()
-        .scaleExtent([0.1, 10])
+        .scaleExtent([0.01, 10])
         .on('zoom', (event) => {
           transform = event.transform;
           draw(); // Call draw function to apply zoom
@@ -90,6 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
           context.fill();
 
           // Draw the node name
+          context.font = 'bold 15px arial';
           context.fillStyle = 'black'; // Text color
           context.textAlign = 'center'; // Align text horizontally centered
           context.textBaseline = 'middle'; // Align text vertically centered
