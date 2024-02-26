@@ -32,11 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
             .forceLink(graphData.links)
             .id((d) => d.id)
             .distance(0)
-            .strength(
-              (d) =>
-                (d.weight * d.weight * d.weight * d.weight * d.weight) /
-                100000000
-            )
+            .strength((d) => Math.pow(d.weight, 2) / 100000)
         )
         .force('charge', d3.forceManyBody().strength(-1000).theta(1))
         .force(
